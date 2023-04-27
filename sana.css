@@ -8,6 +8,15 @@ body {
     background: linear-gradient(to bottom, aqua, aquamarine)
 }
 
+.fondovid{
+    width: 300px;
+    border: solid 5px black;
+    height: 300px;
+    margin: 20% auto;
+    display: grid;
+}
+
+
 
 h1{
     color: burlywood;
